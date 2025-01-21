@@ -5,3 +5,9 @@ pole = [
 ]
 pole[1][1] = 105
 print(pole)
+
+pridane_pole = [
+    [62, 67, 69]
+]
+pole.append(pridane_pole)
+print(pole)
